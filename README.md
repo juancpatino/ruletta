@@ -1,0 +1,2 @@
+# ruletta
+rulleta-bingo
